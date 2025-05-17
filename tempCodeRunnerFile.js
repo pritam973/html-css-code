@@ -1,3 +1,2 @@
-let str = "pritam"
-str2 = str.length
-console.log("@" + (str) +(str2))
+d',
+        text: 'Your data was su
